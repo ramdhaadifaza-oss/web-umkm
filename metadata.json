@@ -1,0 +1,6 @@
+{
+  "name": "LokaRasa Sukoharjo — Katalog & Peta UMKM Kuliner",
+  "description": "Katalog produk kuliner UMKM Sukoharjo dengan etalase ikon tema makanan, foto produk makanan, serta peta sebaran kecamatan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
